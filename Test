@@ -1,0 +1,9 @@
+public class Test
+{
+    private int number;
+    
+    public Test(int num)
+    {
+        number = num;
+    }
+}
